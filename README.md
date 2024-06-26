@@ -79,16 +79,10 @@ A histogram with a KDE overlay showing the distribution of the number of applica
 
 The analysis provides valuable insights into the AI/ML job market in the USA, highlighting the growing demand for AI/ML professionals, especially in the software development and IT sectors. Full-time roles dominate the market, with a significant emphasis on Mid-Senior level positions.
 
-### Future Work
-
-1. **Geospatial Analysis**: Map job opportunities across different regions in the USA to identify hotspots.
-2. **Demand Forecasting**: Use time series models to predict future job postings.
-3. **Skills Gap Analysis**: Analyze the gap between the required and available skills in the job market.
-
 ### Recommendations
 
 1. **For Job Seekers**: Focus on acquiring skills in machine learning, Python, and data handling. Target sectors with high demand, such as software development and IT consulting.
 2. **For Employers**: Highlight key skills and experience required in job listings to attract suitable candidates. Consider offering competitive salaries to stand out in the market.
 
-## Repository Structure
+
 
