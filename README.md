@@ -9,8 +9,8 @@ This project aims to analyze AI and ML job listings in the USA from 2022 to 2024
 The dataset contains AI and ML job listings across the USA from 2022 to 2024. It includes detailed information on job titles, locations, company names, descriptions, application counts, contract types, experience levels, work types, and sectors.
 
 - **Dataset Link**: [AI and ML Job Listings USA](https://www.kaggle.com/datasets/kanchana1990/ai-and-ml-job-listings-usa)
-- **Report Link**: (https://docs.google.com/document/d/1oomwyxAqyhYBfC7lWeLgY0T7hNPHwh3sCR0Sf0S4gWs/edit?usp=sharing)
-
+- **Report Link**: [Analysis and Insights of AI and ML Job Listings in the USA (2022-2024)](https://docs.google.com/document/d/1oomwyxAqyhYBfC7lWeLgY0T7hNPHwh3sCR0Sf0S4gWs/edit?usp=sharing)
+- 
 ### Columns
 
 - **title**: Job title (e.g., AI/ML Engineer)
